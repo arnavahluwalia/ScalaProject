@@ -28,8 +28,11 @@ Clone the repository or download the project's zip file and unzip it into a dire
 
 Open a terminal and navigate to the directory containing the cloned or unzipped project files.
 
-The main file is in src/main/scala
-The test file is in src/test/scala
+The main file is in 
+```src/main/scala```
+
+The test file is in 
+```src/test/scala```
 
 To build and run the application, use the following commands:
 ```
