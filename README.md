@@ -28,7 +28,10 @@ Clone the repository or download the project's zip file and unzip it into a dire
 
 Open a terminal and navigate to the directory containing the cloned or unzipped project files.
 
-To build and run the application, use the following command:
+To build and run the application, use the following commands:
+```
+sbt compile
+```
 ```
 sbt "run PriceBasket item1 item2 item3 ..."
 ```
